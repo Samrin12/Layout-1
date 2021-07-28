@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(221, 166, 94);
+    height: 70px;
+    text-align: center;
+}
+.banner{
+    background-color: chocolate;
+    height: 50px;
+    text-align: center;
+}
+.content-1{
+    overflow: hidden;
+    text-align: center;
+}
+.left-content{
+    background-color: crimson;
+    height: 100px;
+    width: 50%;
+    float: left;
+}
+.right-content{
+    background-color: rgb(212, 109, 109);
+    height: 100px;
+    width: 50%;
+    float: right;
+}
+.content-2{
+    overflow: hidden;
+    text-align: center;
+}
+.long-content{
+    background-color: darkslategray;
+    height: 120px;
+    width: 60%;
+    float: left;
+}
+.short-content{
+    background-color: lightgreen;
+    height: 120px;
+    width: 40%;
+    float: right;
+}
+.client{
+    overflow: hidden;
+    text-align: center;
+    height: 80px;
+}
+.client-1{
+    width:25%;
+    background-color: mediumslateblue;
+    float: left;
+    height: 100%;
+}
+.client-2{
+    width: 25%;
+    background-color: mediumvioletred;
+    float: left;
+    height: 100%;
+}
+.client-3{
+    width: 25%;
+    background-color: rebeccapurple;
+    float: left;
+    height: 100%;
+}
+.client-4{
+    width: 25%;
+    background-color: red;
+    float: left;
+    height: 100%;
+}
+.footer{
+    height: 60px;
+    background-color: saddlebrown;
+    text-align: center;
+}
